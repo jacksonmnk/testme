@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+            <state relative-caret-position="200">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -50,7 +50,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="630" />
+    <option name="height" value="746" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -74,6 +74,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -104,15 +105,23 @@
       <updated>1567103213071</updated>
       <workItem from="1567103214657" duration="6609000" />
       <workItem from="1567833142407" duration="343000" />
-      <workItem from="1568835851735" duration="688000" />
+      <workItem from="1568835851735" duration="2055000" />
     </task>
+    <task id="LOCAL-00001" summary="Add content on the left panel">
+      <created>1569346618200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569346618200</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7640000" />
+    <option name="totallyTimeSpent" value="9007000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="630" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="746" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
@@ -129,7 +138,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.44981414" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37003058" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="10" />
@@ -150,11 +159,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add content on the left panel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add content on the left panel" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        <state relative-caret-position="200">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
         </state>
       </provider>
     </entry>
